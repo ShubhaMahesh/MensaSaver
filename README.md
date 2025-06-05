@@ -46,7 +46,7 @@ app/src/main/res/mipmap-anydpi-v26/ - Adaptive launcher icons.
 
 ## Usage
 -Sign Up:
-Create a new account using your name, email, and password. The email Shubhabm8@gmail.com is reserved for admin access.
+Create a new account using your name, email, and password. 
 
 -Log In:
 Enter your registered email and password to log in.
